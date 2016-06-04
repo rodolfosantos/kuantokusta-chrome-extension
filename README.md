@@ -1,10 +1,10 @@
-# kuantokusta-chrome-extension [![Build Status](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension.svg?branch=development)](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension)
+# kuantokusta-chrome-extension [![Build Status](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension.svg?branch=master)](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension)
 KuantoKusta price alert Chrome Extension.
 
 
 ## Description
 
-This Chrome Extension allows you follow the lowest prices of your favorite products from [KuantoKusta](http://kuantokusta.pt/) website.
+This Chrome Extension allows you to follow the lowest prices of your favorite products from [KuantoKusta](http://kuantokusta.pt/) website.
 
 ## How it works
 
