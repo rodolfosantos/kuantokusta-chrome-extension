@@ -15,6 +15,10 @@ This Chrome Extension allows you to follow the lowest prices of your favorite pr
 * When the price drops, will be notified with a popup
 
 
+## Screenshots
+![alt text](https://dl.dropboxusercontent.com/u/14813041/kuantokusta-chrome-extension/popup.png)
+![alt text](https://dl.dropboxusercontent.com/u/14813041/kuantokusta-chrome-extension/notification.png)
+
 ## Change History
 
 This project uses [semantic versioning](http://semver.org/).
