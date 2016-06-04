@@ -1,0 +1,6 @@
+{
+  "name": "Kuantokusta-chrome-extension",
+  "tagline": "KuantoKusta price alert Chrome Extension for http://www.kuantokusta.pt/",
+  "body": "# kuantokusta-chrome-extension [![Build Status](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension.svg?branch=master)](https://travis-ci.org/rodolfosantos/kuantokusta-chrome-extension)\r\nKuantoKusta price alert Chrome Extension.\r\n\r\n\r\n## Description\r\n\r\nThis Chrome Extension allows you to follow the lowest prices of your favorite products from [KuantoKusta](http://kuantokusta.pt/) website.\r\n\r\n## How it works\r\n\r\n* Install Extension using [kuantokusta-chrome-extension.crx](https://github.com/rodolfosantos/kuantokusta-chrome-extension/raw/master/dist/kuantokusta-chrome-extension.crx)  file\r\n* Go to [KuantoKusta](http://kuantokusta.pt/) and search for the product you would like to follow the price\r\n* Go to extension menu and click on **Subscribe current item!**\r\n* Now this product and its lower available price appear in products list\r\n* When the price drops, will be notified with a popup\r\n\r\n\r\n## Change History\r\n\r\nThis project uses [semantic versioning](http://semver.org/).\r\n\r\n### v0.0.1 - 2016/06/04\r\n\r\n* Initial release \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
