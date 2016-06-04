@@ -3,9 +3,8 @@ language: node_js
 node_js:
 - '4'
 script:
-- npm test
 - .travis/deploy-grunt.sh
-- .travis/crxmake.sh build/chrome .travis/cert.pem
+- .travis/crxmake.sh . .travis/cert.pem
 env:
   global:
   - GH_REF=github.com/rodolfosantos/kuantokusta-chrome-extension.git
