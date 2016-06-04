@@ -2,16 +2,6 @@ sudo: false
 language: node_js
 node_js:
 - '4'
-before_install:
-- npm install -g grunt-cli
-- npm install -g bower
-install:
-- cd dep/chrome/openpgpjs
-- npm install
-- grunt
-- cd ../../..
-- npm install
-- bower install
 script:
 - npm test
 - .travis/deploy-grunt.sh
